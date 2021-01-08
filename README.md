@@ -1,0 +1,2 @@
+# TreasureHunt
+Get money
